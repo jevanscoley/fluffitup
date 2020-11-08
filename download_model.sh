@@ -3,10 +3,10 @@
 # md5sum 1219f5830e4a7208b1c7ba2f089a16c8
 
 FILENAME="remasternet.pth.tar"
-FILEURL="http://iizuka.cs.tsukuba.ac.jp/data/remasternet.pth.tar"
+FILEURL="https://filebin.net/itrh3lwqh6dwonw9/remasternet.pth.tar?t=d6uc2h97"
 FILEMD5="1219f5830e4a7208b1c7ba2f089a16c8"
 
-echo "Downloading the RemasterNet (245MB)..."
+echo "Downloading the RemasterNet baby! (245MB)..."
 wget --continue -O "model/$FILENAME" -- "$FILEURL"
 
 echo "Checking integrity (md5sum)..."
